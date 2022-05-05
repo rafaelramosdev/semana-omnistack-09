@@ -34,7 +34,7 @@ O Aircnc é um projeto que visa conectar empresas e desenvolvedores.
 
 O Aircnc foi desenvolvido com o objetivo de oferecer a possibilidade da empresa abrir e cadastrar spots e o desenvolvedor procurar esses lugares para trocar ideias com outros devs, conhecer a empresa e até mesmo, trabalhar lá por um período. 
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 16 a 20 de Setembro de 2019.
+Este é um projeto desenvolvido durante a **[Semana OmniStack #09](https://nextlevelweek.com/)**, apresentada nos dias 16 a 20 de Setembro de 2019.
 
 ## 🔖 Layout
 
